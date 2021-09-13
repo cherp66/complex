@@ -11,6 +11,8 @@ use complex\{
 
 class CalculatorTest extends TestCase
 {
+    protected $complex;
+
     /**
      * Комплексные числа в виде объектов
      */ 
